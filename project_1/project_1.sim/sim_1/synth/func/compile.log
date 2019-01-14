@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Users/TEMP.PCLABS.000/Desktop/project_1/project_1.sim/sim_1/synth/func/Pseudo_testbench_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Comperator
+INFO: [VRFC 10-311] analyzing module Comperator_cont
+INFO: [VRFC 10-311] analyzing module SevSeg_4digit
+INFO: [VRFC 10-311] analyzing module keypad4X4
+INFO: [VRFC 10-311] analyzing module press_control
+INFO: [VRFC 10-311] analyzing module stepmotor
+INFO: [VRFC 10-311] analyzing module steppermotor_wrapper
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Users/TEMP.PCLABS.000/Desktop/project_1/project_1.srcs/sim_1/new/Pseudo_testbench.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Pseudo_testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Users/TEMP.PCLABS.000/Desktop/project_1/project_1.sim/sim_1/synth/func/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+WARNING: [VRFC 10-1195] overwriting previous definition of module glbl [D:/Users/TEMP.PCLABS.000/Desktop/project_1/project_1.sim/sim_1/synth/func/glbl.v:6]
